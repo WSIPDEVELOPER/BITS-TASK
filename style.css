@@ -1,0 +1,62 @@
+
+.intro{
+padding: 10%;
+text-decoration: none;
+color: white;
+font-family: 'poppins',sans-serif;
+text-align: center;
+font-weight: bolder;
+background: linear-gradient(to top, #3204fdba, #9907facc) ,url("nft.jpg") ;
+margin:-10px;
+font-size: 50px;
+padding-bottom: 20%;
+padding-top: 20%;
+opacity: 0.3;
+height: 100%;
+}
+.about{
+padding: 20%;
+background-color: rgb(129, 129, 216);
+margin-left: -10px;
+margin-right: -10px;
+margin-top: 0px;
+position: relative;
+font-family: 'poppins',sans-serif;
+font-size: 20px;
+font-weight: bolder;
+color: white;
+text-align: justify;
+
+}
+.pragraph{
+    padding: 20%;
+    background-color: rgb(11, 11, 74);
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: 0px;
+    position: relative;
+    font-family: 'poppins',sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    text-align: justify;
+    
+}
+.footer{
+    padding: 2%;
+    background-color: rgb(144, 144, 161);
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: 0px;
+    position: relative;
+    font-family: 'poppins',sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+    margin-bottom: -10px;
+}
+.about h1,.pragraph h1{
+    color: rgba(233, 250, 0, 0.871);
+    text-align: left;
+}
